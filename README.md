@@ -70,3 +70,17 @@ This dataset is small and illustrative. The results show SQL analysis techniques
 2. Run `Retail_Sales_Analysis_setup.sql` to create the database, tables, and sample data.
 3. Open `Retail_Sales_Analysis_queries.sql`.
 4. Execute the analysis queries to reproduce the results.
+
+## Project Screenshots
+
+### 1. Product Revenue Analysis
+![Product Revenue Analysis](product_revenue_analysis.png)
+
+### 2. Category Revenue Analysis
+![Category Revenue Analysis](category_revenue_analysis.PNG)
+
+### 3. Customer Spending Analysis
+![Customer Spending Analysis](customer_spending_analysis.PNG)
+
+### 4. Daily Revenue Analysis
+![Daily Revenue Analysis](daily_revenue_analysis.PNG)
