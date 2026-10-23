@@ -64,10 +64,7 @@ This dataset is small and illustrative. The results show SQL analysis techniques
 
 ## How to Run
 
-1. Download `Retail_Sales_Analysis_queries.sql`.
-
-2. Open it in MySQL Workbench.
-
-3. Execute the database, table creation and sample-data statements.
-
-4. Run the analysis queries to reproduce the findings.
+1. Open MySQL Workbench and connect to your MySQL server.
+2. Run `Retail_Sales_Analysis_setup.sql` to create the database, tables, and sample data.
+3. Open `Retail_Sales_Analysis_queries.sql`.
+4. Execute the analysis queries to reproduce the results.
