@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-I am using this Retail Sales Analysis to examine sample retail sales data with MySQL. I want to see how products perform how customers spend, how categories earn and how daily sales trend.
+This project analyzes retail sales data using SQL and MySQL Workbench to identify top-performing products, revenue by category, and customer purchasing patterns.
+
+The project uses sample data across three related tables: customers, products, and orders.
 
 ## Objectives
 
